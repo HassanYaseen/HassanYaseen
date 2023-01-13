@@ -65,9 +65,12 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
-[![GitHub Hassan Yaseen]](https://github.com/HassanYaseen)
+[![Linkedin: Hassan Yaseen](https://img.shields.io/badge/-hassan-yaseen-131364170-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-yaseen-131364170/)](https://www.linkedin.com/in/hassan-yaseen-131364170/)
 
-[![Twitter: Hassan Yaseen]](https://twitter.com/Hassan6662727?s=09)
+[![GitHub HassanYaseen](https://img.shields.io/github/followers/HassanYaseen?label=follow&style=social)](https://github.com/HassanYaseen)
+
+[![Twitter: Hassan Yaseen](https://img.shields.io/twitter/follow/Hassan6662727?s=09?style=social)](https://twitter.com/Hassan6662727?s=09)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
