@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
-[![Linkedin: Hassan Yaseen](https://img.shields.io/badge/-hassan-yaseen-131364170-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-yaseen-131364170/)](https://www.linkedin.com/in/hassan-yaseen-131364170)
-
 [![GitHub Hassan Yaseen]](https://github.com/HassanYaseen)
 
 [![Twitter: Hassan Yaseen]](https://twitter.com/Hassan6662727?s=09)
