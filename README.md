@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
-[![Linkedin: Hassan Yaseen]](https://www.linkedin.com/in/hassan-yaseen-131364170)
+[![Linkedin: Muhammad Hamza](https://img.shields.io/badge/-muhammad--hamza--44488715a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hamza-44488715a/)](https://www.linkedin.com/in/hassan-yaseen-131364170)
 
 [![GitHub Hassan Yaseen]](https://github.com/HassanYaseen)
 
